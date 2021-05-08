@@ -1,0 +1,23 @@
+{"mempaid_m": 
+    {
+      "mon": "JAN",
+      "paid_all": [
+        {
+          "mem": "mem1",
+          "paid": "yes"
+        },
+        {
+          "mem": "mem2",
+          "paid": "yes"
+        },
+        {
+          "mem": "mem3",
+          "paid": "no"
+        },
+        {
+          "mem": "mem4",
+          "paid": "no"
+        }
+      ]
+    }
+  }

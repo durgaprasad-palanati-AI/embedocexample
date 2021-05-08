@@ -1,0 +1,29 @@
+[
+ { "docname":"mpay",
+  "payment":[
+    {
+    "mon":"jan",
+    "paid_all":[{"mem":"mem1","paid":"yes"},
+      {"mem":"mem2","paid":"yes"},
+      {"mem":"mem3","paid":"no"}
+    ]},
+      {
+    "mon":"feb",
+    "paid_all":[{"mem":"mem1","paid":"no"},
+      {"mem":"mem2","paid":"yes"},
+      {"mem":"mem3","paid":"no"}
+    ]},
+    {
+      "mon":"mar",
+      "paid_all":[{"mem":"mem1","paid":"no"},
+        {"mem":"mem2","paid":"no"},
+        {"mem":"mem3","paid":"no"}
+      ]},
+      {
+        "mon":"apr",
+        "paid_all":[{"mem":"mem1","paid":"yes"},
+          {"mem":"mem2","paid":"yes"},
+          {"mem":"mem3","paid":"yes"}
+        ]}
+  ]}
+]
